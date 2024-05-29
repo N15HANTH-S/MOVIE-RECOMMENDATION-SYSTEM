@@ -1,6 +1,4 @@
 
-**Summary**
-
  		This project proposes a movie recommendation system that leverages the TMDB API for data collection and incorporates content-based filtering for personalized recommendations.
    The system will also include social functionalities, allowing users to create watchlists, review and comment on movies, and interact with each other.
    Additionally, an "About Us" page will provide information about the system's purpose and development.
