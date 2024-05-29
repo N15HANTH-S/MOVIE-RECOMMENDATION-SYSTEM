@@ -12,10 +12,9 @@ Data engineering: Ashok Kumar, Karthikan
 
 Frontend : HTML,CSS,JS
 Backend : Python,TMDb API,nodejs
-Data engineering : Python,MySQL / PostgreSQL
-Data science : Numpy,Pandas,content-based filtering
-Dataset : kaggle, TMDb,IMDB
-Tools: SourceTree, MySQLWorkbench, POSTMAN, GitHub client, VS code, Jupyter, Figma, Draw.io
+Data engineering : Python,MongoDB
+Data science : Pandas,pickle,content-based filtering
+Tools: SourceTree , POSTMAN, GitHub , VS code, Jupyter, Figma, Draw.io
 
 **Features**
 
