@@ -1,4 +1,4 @@
-
+This project aims to develop an advanced movie recommendation system integrated with IMDb, utilizing data analytics and machine learning to provide highly personalized film suggestions. The system uses content-based filtering to analyse user preference, IMDb ratings, reviews, and extensive movie metadata. By using IMDb’s extensive database ,the system enhances user engagement and satisfaction by delivering relevant and high-quality movie recommendations. Evaluation metrics such as precision, recall, and user satisfaction are used to measure and optimise the system’s effectiveness.
 
 **Project Details**
 
